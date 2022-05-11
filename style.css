@@ -1,6 +1,6 @@
 .card{
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     background-color: #333;
     border-radius: 10px;
     outline: 1px solid rgba(255,255,255, .5);
@@ -60,3 +60,4 @@
     color: #000;
     transition: box-shadow 7s, border 3s, background 3s, color 3s;
 }
+
